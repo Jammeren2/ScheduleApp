@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#589ea1</color>
+    <color name="grey2">#68CBCE</color>
+    <color name="grey3">#bdbdbd</color>
+    <color name="grey4">#262626</color>
+    <color name="info_text">#3CCEAD</color>
+    <color name="number_back">#68babd</color>
+    <color name="button_text_color">#FFFFFFFF</color>
+
+</resources>
